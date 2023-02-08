@@ -13,3 +13,13 @@ def gorizontal_checking(board: list[str]) -> bool:
                 return False
     return True
 
+
+def transformer(board):
+    pass
+
+def blockchecker(board):
+    pass
+
+def validate_board(board) -> bool:
+    pass
+
